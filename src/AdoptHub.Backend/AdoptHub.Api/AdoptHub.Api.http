@@ -1,4 +1,4 @@
-@AdoptHub.Api_HostAddress = http://localhost:5285
+@AdoptHub.Api_HostAddress = http://localhost:5224
 
 GET {{AdoptHub.Api_HostAddress}}/weatherforecast/
 Accept: application/json
